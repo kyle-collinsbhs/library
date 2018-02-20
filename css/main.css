@@ -1,0 +1,23 @@
+body {
+	/*background-color: #c49991; Cries because images are not PNG*/
+}
+.main-nav{
+	margin: 0;
+	padding: 0;
+}
+
+.nav-bar-left{
+	background-color: #279af1;
+}
+
+.main-nav li {
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+	list-style-type: none;
+	background-color: #c49991;
+	letter-spacing: 1.2em;
+}
+.clear {
+	clear: both;
+}
